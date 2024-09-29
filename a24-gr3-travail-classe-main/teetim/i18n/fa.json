@@ -1,0 +1,42 @@
+{
+  "directionTexte": "rtl",
+  "entete": {
+    "altLogo": "خانه",
+    "placeholderRecherche": "جستجو",
+    "menuTeeshirts": "تی‌شرت‌ها",
+    "menuCasquettes": "کلاه‌ها",
+    "menuHoodies": "هودی‌ها",
+    "menuAide": "کمک",
+    "menuNous": "درباره ما"
+  },
+  "pp": {
+    "achatsTitre": "خریدهای شما",
+    "navAchatsFaq": "سوالات متداول",
+    "navAchatsLivraison": "تحویل بسته شما",
+    "navAchatsConditions": "شرایط فروش",
+    "navAchatsConfidentialite": "سیاست حفظ حریم خصوصی",
+    "aProposTitre": "درباره teeTIM",
+    "aProposCompagnie": "شرکت",
+    "aProposEquipe": "تیم",
+    "aProposEmplois": "شغل‌ها",
+    "joindreTitre": "تماس با ما",
+    "joindreTelEtiquette": "رایگان: ",
+    "joindreCourrielEtiquette": "ایمیل: ",
+    "droits": "کلیه حقوق محفوظ است"
+  },
+  "accueil": {
+    "metaTitre": "teeTIM // الیاف طبیعی ... طراحی مصنوعی",
+    "metaDesc": "صفحه اصلی طراح لباس 100٪ ساخته شده در کبک، طراحی شده توسط دانشجویان TIM با استفاده از طرح‌های تولید شده توسط هوش مصنوعی، و ساخته شده با الیاف 100٪ طبیعی و ارگانیک.",
+    "amorceTitre": "تی‌شرت‌ها، هودی‌ها و کلاه‌ها ساخته شده در کبک \uD83D\uDCAF",
+    "amorceSousTitre": "طراحی شده در TIM با ❤️",
+    "amorceSousTitre2": "با کمی کمک از DALL-E \uD83D\uDE09",
+    "para1": "امروزه، تی‌شرت یک لباس ضروری در کمد هر کسی است. و در عصری که مسائل زیست محیطی بیش از هر زمان دیگری مهم هستند، ما ترجیح می‌دهیم تی‌شرت‌های ساخته شده در کبک را برای کاهش تأثیرات زیست محیطی و برجسته کردن صنایع دستی محلی.",
+    "para2": "یقه V، یقه گرد، گشاد یا تنگ، آستین کوتاه یا بلند برای سرما، ساده یا طرح‌دار برای استایل دادن به لباس... تی‌شرت در انواع رنگ‌ها، سبک‌ها و طرح‌ها موجود است."
+  },
+  "teeshirts": {
+    "metaTitre": "teeTIM // مجموعه تی‌شرت‌های فوق‌العاده ما",
+    "metaDesc": "[برای تکمیل: توضیحات دقیق تی‌شرت‌ها با کلمات کلیدی مهم در متن]",
+    "titrePage": "تی‌شرت‌های ما",
+    "aVenir": "به زودی..."
+  }
+}

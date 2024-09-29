@@ -1,0 +1,56 @@
+[
+  {
+    "id": "e0001",
+    "nom": "Sean Cohan",
+    "poste": "Président, Bell Média",
+    "annee": 2011
+  },
+  {
+    "id": "e0002",
+    "nom": "Stephen Howe",
+    "poste": "Chef du développement technologique et de l’information",
+    "annee": 2000
+  },
+  {
+    "id": "e0003",
+    "nom": "Blaik Kirby",
+    "poste": "Président de groupe, marché consommateur et petites et moyennes entreprises (PME)",
+    "annee": 1998
+  },
+  {
+    "id": "e0004",
+    "nom": "Devorah Lithwick",
+    "poste": "Première vice-présidente et cheffe de la gestion de la marque",
+    "annee": 2005
+  },
+  {
+    "id": "e0005",
+    "nom": "Robert Malcolmson",
+    "poste": "Vice-président exécutif et chef des affaires juridiques et réglementaires",
+    "annee": 1990
+  },
+  {
+    "id": "e0006",
+    "nom": "Curtis Millen",
+    "poste": "Vice-président exécutif et chef des affaires financières de BCE et de Bell Canada",
+    "annee": 2002
+  },
+  {
+    "id": "e0007",
+    "nom": "Nikki Moffat",
+    "poste": "Vice-présidente exécutive, services généraux et cheffe des ressources humaines",
+    "annee": 2003
+  },
+  {
+    "id": "e0008",
+    "nom": "Karine Moses",
+    "poste": "Première vice-présidente, petites et moyennes entreprises et groupe des compagnies internet, et présidente, direction du Québec",
+    "annee": 2020
+  },
+  {
+    "id": "e0009",
+    "nom": "John Watson",
+    "poste": "Président de groupe, marchés affaires, expérience client et intelligence artificielle",
+    "annee": 2022
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "entete": {
+    "altLogo": "主页",
+    "placeholderRecherche": "搜索",
+    "menuTeeshirts": "T恤",
+    "menuCasquettes": "帽子",
+    "menuHoodies": "连帽衫",
+    "menuAide": "帮助",
+    "menuNous": "关于我们"
+  },
+  "pp": {
+    "achatsTitre": "您的购买",
+    "navAchatsFaq": "常见问题解答",
+    "navAchatsLivraison": "包裹配送",
+    "navAchatsConditions": "销售条款",
+    "navAchatsConfidentialite": "隐私政策",
+    "aProposTitre": "关于 teeTIM",
+    "aProposCompagnie": "公司介绍",
+    "aProposEquipe": "团队介绍",
+    "aProposEmplois": "招聘信息",
+    "joindreTitre": "联系我们",
+    "joindreTelEtiquette": "免费电话：",
+    "joindreCourrielEtiquette": "电子邮箱：",
+    "droits": "版权所有。"
+  },
+  "accueil": {
+    "amorceTitre": "在魁北克制造的T恤、连帽衫和帽子 💯",
+    "amorceSousTitre": "在TIM设计，带着❤️",
+    "amorceSousTitre2": "以及一些来自DALL-E的帮助 😉",
+    "para1": "如今，T恤已经成为每个人衣橱中的必备品。 在环境问题日益严峻的今天，我们更倾向于选择在魁北克制造的T恤，以减少环境影响，并推广本地工艺。",
+    "para2": "V领T恤、圆领T恤、宽松或修身款式，短袖或长袖，适合那些怕冷的人，纯色或图案款式，为你的穿搭增添风格……T恤有多种颜色、款式和图案可供选择。"
+  },
+  "teeshirts": {
+    "titrePage": "我们的T恤",
+    "aVenir": "敬请期待..."
+  },
+  "casquettes": {
+    "titre": "我们的帽子",
+    "aVenir": "敬请期待..."
+  },
+  "hoodies": {
+    "aVenir": "敬请期待...",
+    "nosHoodies": "我们的连帽衫"
+  }
+}

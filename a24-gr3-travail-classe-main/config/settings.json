@@ -1,0 +1,13 @@
+{
+    "editor.rulers": [
+        80
+    ],
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.stickyScroll.enabled": false,
+    "editor.tabSize": 2,
+    "workbench.tree.enableStickyScroll": false,
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "php.validate.executablePath": "\\xampp\\php\\php.exe"
+}

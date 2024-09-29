@@ -1,0 +1,8 @@
+Les fichiers de configuration appartiennent à des contextes différents, donc
+devraient être utilisés uniquement comme exemple et dans le bon contexte.
+
+Par exemple : 
+html.json --> VSCode : "snippets" pour le contexte HTML 
+settings.json --> VSCode : configuration de l'utilisateur (user settings)
+httpd.conf --> Apache : configuration générale 
+perso-3w3-a24.conf --> Apache : configuration des dossiers et raccourcis URL 

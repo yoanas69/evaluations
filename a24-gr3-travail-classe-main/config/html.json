@@ -1,0 +1,22 @@
+{
+	"Délimiteurs PHP 1 ligne":{
+		"prefix": "ph1",
+		"body": "<?php $1; ?>$2",
+		"description": "Produit des délimiteurs PHP sur une seule ligne"
+	},
+
+	"Délimiteurs PHP multiligne":{
+		"prefix": "ph2",
+		"body": [
+			"<?php",
+			"\t$1",
+			"?>"
+		],
+		"description": "Génère des délimiteurs PHP sur plusieurs lignes"
+	},
+
+	"Délimiteurs PHP Echo":{
+		"prefix": "ph=",
+		"body": "<?= $1 ?>"
+	}
+}
